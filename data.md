@@ -21,10 +21,10 @@
   
 # - **Email**:
 #  - Icon: https://cdn-icons-png.flaticon.com/512/732/732200.png
-#  - URL: mailto: 
+#  - URL: mailto: -->
 
 ## Categories
-
+<!--
 ### Software/Hardware
 # - **Add | Something here**:
 #  - Icon: img/profile.jpg
